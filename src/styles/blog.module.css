@@ -11,6 +11,9 @@
     margin: 0 auto 40px;
   }
 }
+.container { display: flex; justify-content: center; 
+  / 子要素を中央寄せにする */ 
+}
 
 .post {
   margin: 0 auto 40px;
