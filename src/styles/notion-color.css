@@ -80,7 +80,7 @@
 }
 .tag.yellow {
   color: rgb(28, 56, 41);
-  background: #dadada !important;
+  background: #e7e5e5 !important;
 }
 .tag.green {
   color: rgb(28, 56, 41);
@@ -88,17 +88,17 @@
 }
 .tag.blue {
   color: rgb(28, 56, 41);
-  background: #cccccc !important;
+  background: #e8e5e5 !important;
 }
 .tag.purple {
   color: rgb(28, 56, 41);
-  background: #c6c6c6 !important;
+  background: #eae6e6 !important;
 }
 .tag.pink {
   color: rgb(28, 56, 41);
-  background: #c1c1c1 !important;
+  background: #e2dfdf !important;
 }
 .tag.red {
   color: rgb(28, 56, 41);
-  background: #bebebe !important;
+  background: #e8efe8 !important;
 }
