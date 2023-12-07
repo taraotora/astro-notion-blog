@@ -68,37 +68,37 @@
 }
 .tag.gray {
   color: rgb(28, 56, 41);
-  background: rgb(227, 226, 224) !important;
+  background: #f3f3f3 !important;
 }
 .tag.brown {
   color: rgb(28, 56, 41);
-  background: rgb(232, 228, 227) !important;
+  background: #eaeaea !important;
 }
 .tag.orange {
   color: rgb(28, 56, 41);
-  background: rgb(232, 229, 226) !important;
+  background: #e2e2e2 !important;
 }
 .tag.yellow {
   color: rgb(28, 56, 41);
-  background: rgb(245, 239, 224) !important;
+  background: #dadada !important;
 }
 .tag.green {
   color: rgb(28, 56, 41);
-  background: rgb(215, 221, 215) !important;
+  background: #d3d3d3 !important;
 }
 .tag.blue {
   color: rgb(28, 56, 41);
-  background: rgb(209, 215, 218) !important;
+  background: #cccccc !important;
 }
 .tag.purple {
   color: rgb(28, 56, 41);
-  background: rgb(221, 217, 223) !important;
+  background: #c6c6c6 !important;
 }
 .tag.pink {
   color: rgb(28, 56, 41);
-  background: rgb(225, 217, 220) !important;
+  background: #c1c1c1 !important;
 }
 .tag.red {
   color: rgb(28, 56, 41);
-  background: rgb(232, 225, 223) !important;
+  background: #bebebe !important;
 }
