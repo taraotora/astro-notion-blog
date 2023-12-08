@@ -167,7 +167,7 @@ if (database.Icon && database.Icon.Type === 'file') {
     order: 2;
     justify-content: space-between;
     }
-    
+
   @media (max-width: 640px) {
     main {
       order: 1;
@@ -194,12 +194,11 @@ if (database.Icon && database.Icon.Type === 'file') {
 
   div.content {
     padding: 20px 40px;
-    max-width: 700px; /* 横幅の最大値 */ 
+    width: 700px; /* 横幅 */ 
   }
-  @media (max-width: 640px) {
-    div.content {
-      padding: 0 18px;
-    }
+  @media screen and (min-width: 320px) {
+  div.content {
+  width: 100%; /* スマホ用  */  }
   }
 
   main header {
